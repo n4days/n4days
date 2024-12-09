@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate with a DevOps Engineer
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=n4days&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height=180 weight=full align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=n4days&theme=dracula&include_all_commits=true&count_private=true" />
 </a>
